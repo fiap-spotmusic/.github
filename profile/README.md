@@ -28,9 +28,11 @@ Estamos sempre buscando melhorar e expandir a SpotMusic. Se você está interess
 
 Na Wiki, você encontrará informações detalhadas sobre:
 
-- [GitFlow](#): Nossa estratégia de branching e fluxo de trabalho para colaboração eficiente.
-- [Convenções de Commit](#): Padrões para mensagens de commit claras e descritivas que facilitam o rastreamento de mudanças.
-- [Versionamento dos Projetos](#): Como versionamos nossos serviços e aplicativos para garantir compatibilidade e estabilidade.
+- [GitFlow](https://github.com/fiap-spotmusic/.github/wiki/GitFlow): Nossa estratégia de branching e fluxo de trabalho para colaboração eficiente.
+- [Convenções de Commit](https://github.com/fiap-spotmusic/.github/wiki/Conven%C3%A7%C3%B5es-de-Commit): Padrões para mensagens de commit claras e descritivas que facilitam o rastreamento de mudanças.
+- [Versionamento dos Projetos](https://github.com/fiap-spotmusic/.github/wiki/Requisitos-de-PR): Como versionamos nossos serviços e aplicativos para garantir compatibilidade e estabilidade.
+- [Requisitos de PR](https://github.com/fiap-spotmusic/.github/wiki/Versionamento-dos-Projetos): Diretrizes para a criação de Pull Requests, incluindo padrões de codificação, testes e documentação necessária.
+- e muitas outras...
 
 Para todos os membros valiosos da equipe SpotMusic que já estão familiarizados com o nosso projeto, visitem regularmente a [Wiki do Projeto SpotMusic](https://github.com/fiap-spotmusic/.github/wiki) para se manterem atualizados com as últimas práticas, diretrizes e atualizações importantes.
 
