@@ -13,8 +13,8 @@ O serviço de playlists é o coração da personalização na SpotMusic. Ele per
 ### `spotmusic-music-library-service`
 Este serviço gerencia o vasto catálogo de músicas da SpotMusic. Ele fornece funcionalidades para busca e organização de músicas, álbuns e artistas, garantindo que os usuários tenham acesso ao melhor conteúdo disponível.
 
-### `spotmusic-authentication-service`
-A segurança é primordial na SpotMusic. O serviço de autenticação é responsável por todo o processo de login, registro e manutenção de sessões seguras dos usuários, utilizando os padrões mais recentes de OAuth 2.0.
+### `spotmusic-payment-service`
+A segurança é primordial na SpotMusic. O serviço de pagamentos é seguro e escalável, dedicado ao processamento de transações financeiras, permitindo aos usuários da SpotMusic realizar pagamentos de assinaturas e compras dentro do aplicativo
 
 ### `spotmusic-android-app`
 O aplicativo Android da SpotMusic oferece uma experiência de usuário rica e adaptável para dispositivos Android. Com uma interface limpa e recursos modernos, ele permite que os usuários desfrutem de suas músicas favoritas a qualquer hora, em qualquer lugar.
